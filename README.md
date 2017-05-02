@@ -12,8 +12,17 @@ For the collection of future topics, see [issue number 1](https://github.com/oxp
 
 | Date | Topic | Presenter |
 |------|-------|-----------|
+| 2017-05-29 | No Demo (Holiday) | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
+| 2017-05-22 | IntAct: A database of molecular interactions | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
+| 2017-05-15 | Cytoscape for analysis and visualization of gene networks | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
+| 2017-05-08 | Jupyter Notebooks | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
 | 2017-05-01 | [Gene Ontology and Gene Enrichment Analysis](Gene_Ontology) | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
+| 2017-04-24 | InterPro | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
+| 2017-04-17 | PANTHER: Protein ANalysis THrough Evolutionary Relationships | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
 | 2017-04-13 | [Bioinformatic Applications of Cytoscape (d:bug presentation)](Cytoscape) | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
+| 2017-04-10 | DESeq2: Differential analysis of RNA-Seq data | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
+| 2017-04-03 | KEGG: Kyoto Encyclopedia of Genes and Genomes | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
+| 2017-03-27 | CoExpedia | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
 
 ## Useful links
 
