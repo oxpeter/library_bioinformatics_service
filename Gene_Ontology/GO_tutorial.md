@@ -63,6 +63,7 @@ This section will demonstrate how to identify GO terms that are significantly en
 Rather than testing your gene set against all genes annotated for the target organism, it may be more appropriate to choose only those genes that are expressed in the target tissue / environment / condition
 
 1. Navigate to the panther gene enrichment input page:
+
 a. Navigate in a browser to http://amigo.geneontology.org/amigo
 b. Select "Advanced" in the Term Enrichment Service box
 
