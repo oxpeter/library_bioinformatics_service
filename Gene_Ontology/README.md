@@ -1,7 +1,5 @@
 # Gene Ontology (GO) - understanding gene functions and relationships
 
-![LBS](../images/LBS.png)
-
 Demonstration given by Peter Oxley, PhD
 Monday, May 1st, 2017
 
@@ -12,3 +10,6 @@ Monday, May 1st, 2017
 4. Article: "Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists" Huang, D.W.; Sherman, B.T. and Lempicki,R.A. (2009) [Nucleic Acids Research 37 (1): 1-13](https://academic.oup.com/nar/article/37/1/1/1026684/Bioinformatics-enrichment-tools-paths-toward-the)
 5. Tutorial on [using Cytoscape for Gene Ontology over-representation](../Cytoscape).
 This tutorial was originally given for the Applied Bioinformatics Core d:bug sessions in April 2017. For more information on d:bug, see [here](https://github.com/abcdbug/dbug).
+
+
+![LBS](../images/motif.png =190x80)
