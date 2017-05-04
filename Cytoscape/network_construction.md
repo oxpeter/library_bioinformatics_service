@@ -1,4 +1,4 @@
-![Weill Cornell Medicine Samuel J. Wood Library](images/WCM_SamWoodLib.png)
+![Weill Cornell Medicine Samuel J. Wood Library](images/WCM_SamWoodLib.png =500x120)
 
 
 # Biological Networking 102 workshop
@@ -20,7 +20,7 @@ New York, NY 10065-4896
 pro2004@med.cornell.edu
 ```
 
-![Library Bioinformatic Service](images/LBS.png)
+![Library Bioinformatic Service](images/LBS.png =285x120)
 
 
 ## Exercise A) Download MAPK pathway from KEGG
@@ -151,54 +151,12 @@ key column for network: Ensemble
 
 ![hopefully, this is what you now see](images/exercise_G.png)
 
-## Exercise H) GO analysis with BiNGO and GOlorize
-_A very helpful tutorial for GOlorize can be found [here](https://github.com/schwikowskilab/GOlorize/wiki). The BiNGO user guide can be found [here](https://www.psb.ugent.be/cbd/papers/BiNGO/User_Guide.html)._
+## Exercise H) Export images
 
-65) create a new copy of the MAPK classic network (steps 15 to 17)
-66) go to App Manager and install "BiNGO" and "GOlorize"
-67) using cell formulae, re-assign the values of column "name" to equal that of "first-gene"
-68) remove the style mapping for box fill in the style tab of the control panel
-69) highlight the network/subnetwork you wish to analyze
-70) select GOlorize from the app menu
-71) select "Start BiNGO"
-72) choose GO enrichment parameters. Ensure for this exercise that you select "get cluster from network", which will use the gene IDs from the "name" column, for all currently selected genes. Because you cannot select which column BiNGO will use for name mapping, you have to alter the content of the name column, as we did at step 66.
-
-_BiNGO accesses annotation and ontology databases, that are not necessarily representative of the current release. However, if you download the appropriate files (see geneontology.org > Download > Annotations    and > Download > Ontologies), you can then point BiNGO to these files._
-
-73) click on "Start BiNGO" in the BiNGO dialog window. This will create a new network, containing the GO hierarchy of all enriched terms. It should also populate the GOlorize window
-74) in the GOlorize options, choose the GO tab (labelled according to your entry in the BiNGO analysis: Default is Bingo cluster 1)
-75) select the GO terms you wish to map onto your network
-76) select "validate". If you wish to also select the genes on your network that contain these GO terms, click "Select nodes"
-77) select the "Selected" tab
-78) this window will show you all your selected GO terms. You can also add extra terms, which do not even need to be present in the GO analysis list (ie, perhaps you wish to see which genes are annotated with a particular term, even though it is not significantly enriched). To add GO terms, use the "Add GO category" button.
-79) select "Auto-Colors" to color the nodes
-80) click on any color in the list to bring up a color selector, so you can manually edit the colors.
-
-![hopefully, this is what you now see](images/exercise_H1.png)
-
-
-__View and modify the enriched GO hierarchy__
-
-81) select the GO term network ("Bingo Cluster 1", unless you renamed it at step 71)
-
-_All GO terms that were significanly enriched (after any multiple testing correction) are shown in yellow. The lower the P value, the more orange the node. Uncolored nodes are parent nodes needed to connect their enriched daughter nodes to the network. Node size is relative to the number of genes that are annotated with that GO term._
-
-82) select all nodes 
-83) select Layout > yFiles Layouts > Hierarchic
+65) navigate to your desired network
+66) use the style tab in the control panel, and the tool panel (view menu), to fine-tune the appearance of your network
+67) select File > Export as image...
+68) choose format, file path, and image parameters to suit
+69) click "OK"
  
-![hopefully, this is what you now see](images/exerciseH2.png)
- 
-## Exercise I) Export images
-
-84) navigate to your desired network
-85) use the style tab in the control panel, and the tool panel (view menu), to fine-tune the appearance of your network
-86) select File > Export as image...
-87) choose format, file path, and image parameters to suit
-88) click "OK"
- 
-## Bonus exercise:
-_Using BiNGO, can you input the genes with significant differential expression, identify potential candidate pathways containing these genes (you can also use [KEGG mapper](http://www.kegg.jp/kegg/tool/map_pathway1.html) for this), then repeat the above exercise to color and sort the significant genes within the identified pathway?_ 
- 
-
- ## Answers/Hints to challenges:
- hint for 67: "=$first_gene"
+ ![LBS](../images/motif.png =190x80)
