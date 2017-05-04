@@ -1,4 +1,4 @@
-![Weill Cornell Medicine Samuel J. Wood Library](../images/WCM_SamWoodLib.png =500x120)
+![Weill Cornell Medicine Samuel J. Wood Library](../images/WCM_SamWoodLib.png)
 
 
 # JupyterHub Setup and Usage Tutorial
@@ -20,7 +20,7 @@ New York, NY 10065-4896
 pro2004@med.cornell.edu
 ```
 
-![Library Bioinformatic Service](../images/LBS.png =285x120)
+![Library Bioinformatic Service](../images/LBS.png)
 
 
 ## Installation
@@ -34,4 +34,4 @@ brew install jupyterhub
 ## Usage
 
 
-![LBS](../images/motif.png =190x80)
+![LBS](../images/motif.png)

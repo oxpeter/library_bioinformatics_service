@@ -1,5 +1,5 @@
 
-![LBS](images/LBS.png =285x120)
+![LBS](images/LBS.png)
 ----------
 We meet on __Mondays at noon__ in the library commons area of the Samuel J. Wood Library, 1300 York Ave. You can see the upcoming topics in the Events section of the [Library Website](https://library.med.cornell.edu).
 

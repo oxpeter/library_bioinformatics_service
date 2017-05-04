@@ -12,4 +12,4 @@ Monday, May 1st, 2017
 This tutorial was originally given for the Applied Bioinformatics Core d:bug sessions in April 2017. For more information on d:bug, see [here](https://github.com/abcdbug/dbug).
 
 
-![LBS](../images/motif.png =190x80)
+![LBS](../images/motif.png)

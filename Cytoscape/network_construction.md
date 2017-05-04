@@ -1,4 +1,4 @@
-![Weill Cornell Medicine Samuel J. Wood Library](images/WCM_SamWoodLib.png =500x120)
+![Weill Cornell Medicine Samuel J. Wood Library](images/WCM_SamWoodLib.png)
 
 
 # CytoScape for Gene Network Construction and Visualization
@@ -20,7 +20,7 @@ New York, NY 10065-4896
 pro2004@med.cornell.edu
 ```
 
-![Library Bioinformatic Service](images/LBS.png =285x120)
+![Library Bioinformatic Service](images/LBS.png)
 
 
 ## Exercise A) Download MAPK pathway from KEGG
@@ -159,4 +159,4 @@ key column for network: Ensemble
 68) choose format, file path, and image parameters to suit
 69) click "OK"
  
- ![LBS](../images/motif.png =190x80)
+ ![LBS](../images/motif.png)

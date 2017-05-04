@@ -1,4 +1,4 @@
-![Weill Cornell Medicine Samuel J. Wood Library](images/WCM_SamWoodLib.png =500x120)
+![Weill Cornell Medicine Samuel J. Wood Library](images/WCM_SamWoodLib.png)
 
 
 # Cytoscape for GO Enrichment and Visualization
@@ -20,7 +20,7 @@ New York, NY 10065-4896
 pro2004@med.cornell.edu
 ```
 
-![Library Bioinformatic Service](images/LBS.png =285x120)
+![Library Bioinformatic Service](images/LBS.png)
 
 ## Setup for exercises
 1) create the MAPK classic network from the tutorial on [network_construction](network_construction.md), exercises A through C.
@@ -93,3 +93,5 @@ _Using BiNGO, can you input the genes with significant differential expression, 
 
  ## Answers/Hints to problems:
  hint for A3: "=$first_gene"
+ 
+ ![LBS motif](../images/motif.png)
