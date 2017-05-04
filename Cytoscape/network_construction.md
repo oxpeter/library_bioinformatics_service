@@ -1,8 +1,8 @@
 ![Weill Cornell Medicine Samuel J. Wood Library](images/WCM_SamWoodLib.png =500x120)
 
 
-# Biological Networking 102 workshop
-## Using CytoScape for bioinformatics
+# CytoScape for Gene Network Construction and Visualization
+## CytoScape for bioinformatics, tutorial 1
 
 
 ```

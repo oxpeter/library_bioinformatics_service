@@ -21,31 +21,32 @@ pro2004@med.cornell.edu
 ```
 
 ![Library Bioinformatic Service](images/LBS.png =285x120)
-## Setup for excercises
-1) create the MAPK classic network from the network_construction tutorial, excercises A through C.
+
+## Setup for exercises
+1) create the MAPK classic network from the tutorial on [network_construction](network_construction.md), exercises A through C.
 2) go to App Manager and install "BiNGO", "GOlorize", and "ClusterMaker2".
 
 ## Exercise A) GO overrepresentation analysis with BiNGO
 _The BiNGO user guide can be found [here](https://www.psb.ugent.be/cbd/papers/BiNGO/User_Guide.html)._
 
-3) using cell formulae, re-assign the values of column "name" to equal that of "first-gene"
-4) remove the style mapping for box fill in the style tab of the control panel
-5) highlight the network/subnetwork you wish to analyze
-6) select __BiNGO__ from the app menu
-7) choose GO enrichment parameters. Ensure for this exercise that you select "get cluster from network", which will use the gene IDs from the "name" column, for all currently selected genes. Because you cannot select which column BiNGO will use for name mapping, you have to alter the content of the name column, as we did at step 66.
+1) using cell formulae, re-assign the values of column "name" to equal that of "first-gene"
+2) remove the style mapping for box fill in the style tab of the control panel
+3) highlight the network/subnetwork you wish to analyze
+4) select __BiNGO__ from the app menu
+5) choose GO enrichment parameters. Ensure for this exercise that you select "get cluster from network", which will use the gene IDs from the "name" column, for all currently selected genes. Because you cannot select which column BiNGO will use for name mapping, you have to alter the content of the name column, as we did at step 66.
 
 _BiNGO accesses annotation and ontology databases, that are not necessarily representative of the current release. However, if you download the appropriate files (see geneontology.org > Download > Annotations    and > Download > Ontologies), you can then point BiNGO to these files._
 
-8) click on "Start BiNGO" in the BiNGO dialog window. This will create a new network, containing the GO hierarchy of all enriched terms. 
+6) click on "Start BiNGO" in the BiNGO dialog window. This will create a new network, containing the GO hierarchy of all enriched terms. 
 
 __View and modify the enriched GO hierarchy__
 
-9) select the GO term network ("Bingo Cluster 1", unless you renamed it at step 71)
+7) select the GO term network ("Bingo Cluster 1", unless you renamed it at step 71)
 
 _All GO terms that were significanly enriched (after any multiple testing correction) are shown in yellow. The lower the P value, the more orange the node. Uncolored nodes are parent nodes needed to connect their enriched daughter nodes to the network. Node size is relative to the number of genes that are annotated with that GO term._
 
-10) select all nodes 
-11) select Layout > yFiles Layouts > Hierarchic
+8) select all nodes 
+9) select Layout > yFiles Layouts > Hierarchic
  
 ![hopefully, this is what you now see](images/exerciseH2.png)
  
@@ -53,13 +54,14 @@ _All GO terms that were significanly enriched (after any multiple testing correc
 
 _This clustering exercise uses the Girvan-Newman algorithm to identify subnetworks within a network. This can help to describe the types of GO terms that have been assigned to your network._
 
-1) select apps > clusterMaker > Community Cluster (GLay)
-2) uncheck "Cluster only selected nodes"
-3) check "Assume edges are undirected"
-4) check "Create new clustered network"
-5) uncheck "Restore inter-cluster edges after layout"
-6) select the newly created network
-7) select Layout > yFiles Layouts > Hierarchic
+1) ensure you are currently viewing the GO hierarchy network
+2) select apps > clusterMaker > Community Cluster (GLay)
+3) uncheck "Cluster only selected nodes"
+4) check "Assume edges are undirected"
+5) check "Create new clustered network"
+6) uncheck "Restore inter-cluster edges after layout"
+7) select the newly created network
+8) select Layout > yFiles Layouts > Hierarchic
 
 _Because the Gene Ontology terms are logically related, you can use the top-most GO term as a logical description of all the child nodes within a given cluster. When there is not a single node that is a common ancestor of all the nodes in the cluster, it is better to describe the cluster by all top-level nodes._ 
 
