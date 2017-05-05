@@ -35,3 +35,5 @@ brew install jupyterhub
 
 
 ![LBS](../images/motif.png)
+
+----------
