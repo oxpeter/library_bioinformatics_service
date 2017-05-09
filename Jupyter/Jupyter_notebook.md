@@ -2,7 +2,7 @@
 
 
 # Jupyter Notebook Tutorial
-## A tutorial introducing the basic functions of the Jupyter notebook
+## A tutorial to install and run Jupyter notebooks
 
 
 ```
@@ -51,35 +51,14 @@ _More details and options can be found in the [Jupyter documentation](https://ju
 1) From the dashboard, navigate to the folder in which you would like to create your notebook. Clicking on a folder name will open the folder and display its contents. You can create a new folder by selecting  ```New ▼ > Folder``` from the button on the right, above the file list. 
 2) Create a new notebook by selecting ```New ▼ > ```  and choosing the kernel you wish to use. The basic installation will only have the IPython kernel available. However, you can install additional kernels to access other languages from the notebook (See exercise J).
 
-## Exercise B) 
-
-## Exercise ) Display images and graphs inline 
-_The default behavior in the notebook for rendering graphics is to do so in a new window, following an explicit call such as plt.plot() However, it is possible to have graphics automatically rendered in the notebook._
-
-```
-%matplotlib inline
-```
+ 
 
 
-## Exercise F) Export HTML 
-_This allows others to view the file in their browser - it does not allow them to modify or run the notebook._
-1) Go to File > Download as > HTML (.html)
-2) Open file in downloads folder in a browser to inspect.
 
-## Exercise G) Download as pdf
-1) go to File > print preview
-2) save as pdf (depends on browser):
-__Safari__
-file > export as pdf...
-__Chrome__
-file > Print
-Click "Open PDF in Preview"
-__Firefox__
-file > Print
-select PDF dropdown: "Save as PDF"
-
-## Exercise ) Using R in Jupyter notebooks
+## Exercise B) Using R in Jupyter notebooks
 __Install R-essentials and rpy2__
+This first requires that you have R installed on your computer.
+In the terminal, enter:
 
 ```
 conda install -c r r-essentials
@@ -89,10 +68,8 @@ conda install -c r rpy2
 _This will include the installation of the packages dplyr, shiny, ggplot2, tidyr, caret, and nnet._
 
 
-
-
-## Exercise J) Installing a kernel for working in R
-_There are more than 80 different kernels available for Jupyter, giving access to many languages, including [Java, Matlab, Octave, bash, C#, C++, Julia, Jython, scala, etc](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels). Installation of these can vary from the example given here, so you will need to check the instructions for each one you wish to add to your repertoire_ 
+## Exercise C) Installing a kernel for working in R
+_There are more than 80 different kernels available for Jupyter, giving access to many languages, including [Java, Matlab, Octave, bash, C#, C++, Julia, Jython, scala, etc](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels). Installation of these can vary from the example given here, so you will need to check the instructions for each one you wish to add to your Jupyter kernel repertoire_ 
 
 1) Make sure you have R installed
 2) In the terminal, start R (do not use R-Studio for the following steps):
