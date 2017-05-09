@@ -12,4 +12,4 @@ Monday, May 8th, 2017
 6. Documentation: [official Jupyter documents](https://jupyter.readthedocs.io/en/latest/index.html)
 7. Article: [An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study](https://f1000research.com/articles/5-1574/v1). The notebook is viewable [here](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb). 
 
-![LBS](../images/motif.png)
+![LBS](../images/Motif.png)

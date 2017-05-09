@@ -13,3 +13,4 @@ Based on two workshops originally given by Michael Bales, PhD and Peter Oxley, P
 This tutorial was originally given for the Applied Bioinformatics Core d:bug sessions in April 2017. For more information on d:bug, see [here](https://github.com/abcdbug/dbug).
 
 
+![LBS](../images/Motif.png)
