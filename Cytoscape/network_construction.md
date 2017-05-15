@@ -159,4 +159,4 @@ key column for network: Ensemble
 68) choose format, file path, and image parameters to suit
 69) click "OK"
  
- ![LBS](../images/motif.png)
+ ![LBS](../images/Motif.png)
