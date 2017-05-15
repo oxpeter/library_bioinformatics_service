@@ -10,9 +10,9 @@ __Presentation Slides__
 2. [Using cytoscape for bioinformatics](./Oxley_demo_results_slides.pdf). Created by Peter Oxley, PhD.
 
 __Tutorials__
-3. [Creating basic networks in Cytoscape](./Bales_handout_Cytoscape.pdf).
-4. [Using Cytoscape for network construction and visualization](./network_construction.md). 
-5. [Using Cytoscape for Gene Ontology over-representation](./GO_enrichment.md). 
+1. [Creating basic networks in Cytoscape](./Bales_handout_Cytoscape.pdf).
+2. [Using Cytoscape for network construction and visualization](./network_construction.md). 
+3. [Using Cytoscape for Gene Ontology over-representation](./GO_enrichment.md). 
 
 
 ![LBS](../images/Motif.png)
