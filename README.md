@@ -10,6 +10,7 @@ Feel free to post issues or comments using the github issue tracker, or (for the
 For the collection of future topics, see [issue number 1](https://github.com/oxpeter/library_bioinformatics_service/issues/1).
 
 
+
 ## Schedule of topics, with links to material
 
 | Date | Topic | Presenter |
