@@ -5,6 +5,7 @@ Monday, May 8th, 2017
 
 ## Contents:
 1. Tutorial: How to [install and run](./Jupyter_notebook.md) Jupyter notebooks
+2. Tutorial: How to [install and run](./Jupyterlab_install.md) JupyterLab
 2. [Jupyter notebook tutorial (html format - open in browser)](./Jupyter_Notebook_Demo.html)
 3. [Jupyter notebook tutorial (ipynb format - requires Jupyter)](./Jupyter_Notebook_Demo.ipynb)
 4. [Jupyter notebook tutorial (pdf format)](./Jupyter_Notebook_Demo.pdf)
