@@ -1,7 +1,7 @@
-
+m
 ![LBS](images/LBS.png)
 ----------
-We meet on __Mondays at noon__ in the library commons area of the Samuel J. Wood Library, 1300 York Ave. You can see the upcoming topics in the Events section of the [Library Website](https://library.med.cornell.edu).
+We meet on __Wednesdays at noon__ in the library commons area of the Samuel J. Wood Library, 1300 York Ave. You can see the upcoming topics in the Events section of the [Library Website](https://library.med.cornell.edu).
 
 The material from each demonstration will be available in its own folder.
 
@@ -11,10 +11,16 @@ For the collection of future topics, see [issue number 1](https://github.com/oxp
 
 
 
-## Schedule of topics, with links to material
+## Schedule of topics, with links to material (most recent on top)
 
 | Date | Topic | Presenter |
 |------|-------|-----------|
+| 2018-03-28 | KEGG: Kyoto Encyclopedia of Genes and Genomes | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
+| 2018-03-21 | Pandas: Joins and Plotting | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
+| 2018-03-14 | Basic Pandas | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
+| 2018-03-07 | [Jupyterlab](Jupyterlab) | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
+| 2018-02-28 | SQL Aggregations and filtering | [Michael Bales](mailto:meb7002@med.cornell.edu) |
+| 2018-02-21 | Basic SQL queries | [Michael Bales](mailto:meb7002@med.cornell.edu) |
 | 2017-05-29 | No Demo (Holiday) | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
 | 2017-05-22 | IntAct: A database of molecular interactions | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
 | 2017-05-15 | [Cytoscape for analysis and visualization of gene networks](Cytoscape) | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
