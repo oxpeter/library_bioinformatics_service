@@ -4,3 +4,5 @@ sklearn
 pandas
 ipywidgets
 scipy
+cartopy
+seaborn
