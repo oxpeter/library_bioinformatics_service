@@ -17,7 +17,7 @@ For the collection of future topics, see [issue number 1](https://github.com/oxp
 |------|-------|-----------|
 | 2018-03-28 | KEGG: Kyoto Encyclopedia of Genes and Genomes | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
 | 2018-03-21 | Pandas: Joins and Plotting | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
-| 2018-03-14 | Basic Pandas | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
+| 2018-03-14 | [Basic Pandas](Pandas) | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
 | 2018-03-07 | [Jupyterlab](Jupyterlab) | [Peter Oxley](mailto:pro2004@med.cornell.edu) |
 | 2018-02-28 | SQL Aggregations and filtering | [Michael Bales](mailto:meb7002@med.cornell.edu) |
 | 2018-02-21 | Basic SQL queries | [Michael Bales](mailto:meb7002@med.cornell.edu) |
